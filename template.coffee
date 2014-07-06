@@ -63,9 +63,9 @@ exports.template = (grunt, init, done) ->
     props.npm_test = 'grunt test'
     props.keywords = ['gruntplugin']
     props.devDependencies =
-      'grunt-contrib-jshint':   '^0.9.2'
       'grunt-contrib-clean':    '^0.5.0'
       'grunt-contrib-nodeunit': '^0.3.3'
+      'grunt-coffee-jshint':    '~0.2.1'
 
     props.peerDependencies =
       'grunt': props.grunt_version
