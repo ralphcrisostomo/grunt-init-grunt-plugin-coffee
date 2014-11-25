@@ -1,6 +1,6 @@
-# grunt-init-gruntplugincoffee
+# grunt-init-grunt-plugin-coffee
 
-> Create a gruntplugincoffee module with [grunt-init][], including Nodeunit unit tests.
+> Create a grunt-plugin-coffee module with [grunt-init][], including Nodeunit unit tests.
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
@@ -12,7 +12,7 @@ directory. It's recommended that you use git to clone this template into that
 directory, as follows:
 
 ```
-git clone https://github.com/ralphcrisostomo/grunt-init-gruntplugincoffee.git ~/.grunt-init/gruntplugincoffee
+git clone https://github.com/ralphcrisostomo/grunt-init-grunt-plugin-coffee.git ~/.grunt-init/grunt-plugin-coffee
 ```
 
 _(Windows users, see [the documentation][grunt-init] for the correct
@@ -24,7 +24,7 @@ At the command-line, cd into an empty directory, run this command and follow
 the prompts.
 
 ```
-grunt-init gruntplugincoffee
+grunt-init grunt-plugin-coffee
 ```
 
 _Note that this template will generate files in the current directory, so be
